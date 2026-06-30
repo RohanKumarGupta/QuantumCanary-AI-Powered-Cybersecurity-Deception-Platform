@@ -1,4 +1,4 @@
-# 🔒 QuantumCanary v2 — AI-Powered Cybersecurity Deception Platform
+# 🔒 QuantumCanary — AI-Powered Cybersecurity Deception Platform
 
 QuantumCanary is a production-ready, full-stack cybersecurity SaaS platform designed to outsmart attackers by deploying intelligent deception layers (honeypots) and canary tokens. The platform features a real-time **Antigravity 3D Threat Mesh Dashboard**, AI-driven threat intelligence analysis, and automated incident reporting.
 
